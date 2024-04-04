@@ -30,6 +30,6 @@ npm run build
 
 ## expense-tracker for your private 
 
-``
+
 v.1
-```
+
